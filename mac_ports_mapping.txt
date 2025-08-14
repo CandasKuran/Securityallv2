@@ -1,0 +1,6 @@
+# Mapping MAC - Ports normalement ouverts
+# Format: MAC,port1,port2,port3...
+# Exemple:
+AA:BB:CC:DD:EE:FF,80,443,22
+11:22:33:44:55:66,22,80,3389
+22:33:44:55:66:77,22,80

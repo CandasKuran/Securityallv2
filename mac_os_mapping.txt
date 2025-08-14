@@ -1,0 +1,6 @@
+# Mapping MAC - Système d'exploitation
+# Format: MAC,OS
+# Exemple:
+AA:BB:CC:DD:EE:FF,Windows
+11:22:33:44:55:66,Linux Server
+22:33:44:55:66:77,Linux/Unix

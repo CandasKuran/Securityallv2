@@ -1,0 +1,6 @@
+# Mapping MAC - IP normal
+# Format: MAC,IP
+# Exemple:
+AA:BB:CC:DD:EE:FF,10.10.10.5
+11:22:33:44:55:66,10.10.10.8
+22:33:44:55:66:77,10.10.10.12

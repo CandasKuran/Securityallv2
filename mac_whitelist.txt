@@ -1,0 +1,6 @@
+# Liste des adresses MAC autorisées
+# Format: Une MAC par ligne
+# Exemple:
+AA:BB:CC:DD:EE:FF
+11:22:33:44:55:66
+22:33:44:55:66:77
